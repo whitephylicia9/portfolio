@@ -1,45 +1,50 @@
-:root {
-    --MediumSeaGreen:
-    --Darkblue:00008b;
+body {
+background-color: rgb(243, 238, 247);
+        height: 100px
+ 
+}
 
-    {
-       ::section
-       background-color:brown
-       }
+navbar{
+    li {
+        float: right;
+      }
+      
+      a {
+        display: block;
+        padding: 50px;
+        background-color: #8a1010;
+      }
+
+}
+h1{
+    text-align: center;
+    font-family: "fantasy";
+    font-size: 30px;  
+    color: rgba(12, 16, 14, 0.808);
+    li {
+        float: left;
+      
+      ul 
+        position: fixed;
+        top: 50%;
+        width: 50%%;
+      
+      a 
+        display: block;
+        padding: 50px;
+        background-color: #8a1010;
+      
 
 
 }
-body
+ 
+h2{
+    box-sizing: 100px;
+    text-align: left;
+    font-family:
+    
+}
 {
-    display:flex: flex-direction; column;10px inline-height- 2.0
-
-
-
 }
 
-    <head>
-     <background-color="pink"></background-color>
-    <h1
-    flex-direction: column;
-    input type="submit" visibility: visible;
-    width:10px;
-    height:10px;    
-    background:red;
-
-  background-color:blueviolet
-
-  style="background-color:green;"
-    
-    flex-direction: column;
-    
-
-h2
-p{
-my background-image: display: height: width: ;;;
-    background-color:red; 
-}
-
-{style="color:aqua; background-color: green;"> 
-input[type=text]}
-    padding: 25px;
-    border: 15
+html
